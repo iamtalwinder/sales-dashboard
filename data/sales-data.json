@@ -1,0 +1,122 @@
+[
+  {
+    "month": "2023-01",
+    "total": 45000,
+    "categories": {
+      "electronics": 15000,
+      "clothing": 12000,
+      "books": 8000,
+      "home": 10000
+    }
+  },
+  {
+    "month": "2023-02",
+    "total": 42000,
+    "categories": {
+      "electronics": 14000,
+      "clothing": 11000,
+      "books": 7000,
+      "home": 10000
+    }
+  },
+  {
+    "month": "2023-03",
+    "total": 50000,
+    "categories": {
+      "electronics": 18000,
+      "clothing": 13000,
+      "books": 9000,
+      "home": 10000
+    }
+  },
+  {
+    "month": "2023-04",
+    "total": 48000,
+    "categories": {
+      "electronics": 16000,
+      "clothing": 14000,
+      "books": 8000,
+      "home": 10000
+    }
+  },
+  {
+    "month": "2023-05",
+    "total": 52000,
+    "categories": {
+      "electronics": 19000,
+      "clothing": 15000,
+      "books": 8000,
+      "home": 10000
+    }
+  },
+  {
+    "month": "2023-06",
+    "total": 55000,
+    "categories": {
+      "electronics": 20000,
+      "clothing": 16000,
+      "books": 9000,
+      "home": 10000
+    }
+  },
+  {
+    "month": "2023-07",
+    "total": 58000,
+    "categories": {
+      "electronics": 22000,
+      "clothing": 17000,
+      "books": 9000,
+      "home": 10000
+    }
+  },
+  {
+    "month": "2023-08",
+    "total": 56000,
+    "categories": {
+      "electronics": 21000,
+      "clothing": 16000,
+      "books": 9000,
+      "home": 10000
+    }
+  },
+  {
+    "month": "2023-09",
+    "total": 54000,
+    "categories": {
+      "electronics": 20000,
+      "clothing": 15000,
+      "books": 9000,
+      "home": 10000
+    }
+  },
+  {
+    "month": "2023-10",
+    "total": 57000,
+    "categories": {
+      "electronics": 21000,
+      "clothing": 16000,
+      "books": 10000,
+      "home": 10000
+    }
+  },
+  {
+    "month": "2023-11",
+    "total": 62000,
+    "categories": {
+      "electronics": 24000,
+      "clothing": 18000,
+      "books": 10000,
+      "home": 10000
+    }
+  },
+  {
+    "month": "2023-12",
+    "total": 70000,
+    "categories": {
+      "electronics": 28000,
+      "clothing": 20000,
+      "books": 12000,
+      "home": 10000
+    }
+  }
+]

@@ -1,0 +1,1 @@
+export const SALES_DATA_MODEL = 'SalesData';
