@@ -1,9 +1,10 @@
 'use client';
 
-import ReactApexChart from 'react-apexcharts';
 import { ApexOptions } from 'apexcharts';
 import { ChartType } from '@dashboard/config';
+import dynamic from 'next/dynamic';
 
+const ReactApexChart = dynamic(() => import('react-apexcharts'), { ssr: false });
 interface ChartProps {
   options: ApexOptions;
   series: ApexAxisChartSeries;

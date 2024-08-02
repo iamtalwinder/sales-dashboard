@@ -11,12 +11,9 @@ export const env = createEnv({
     MONGODB_URI: z.string().min(1),
     NODE_ENV: z.nativeEnum(AppEnv),
   },
-  client: {
-    NEXT_PUBLIC_API_BASE_URL: z.string().min(1)
-  },
+  client: {},
   runtimeEnv: {
     NODE_ENV: process.env.NODE_ENV,
-    MONGODB_URI: process.env.MONGODB_URI,
-    NEXT_PUBLIC_API_BASE_URL: process.env.NEXT_PUBLIC_API_BASE_URL
+    MONGODB_URI: process.env.MONGODB_URI
   },
 });
